@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "524796436433",
+    "firebase_url": "https://test-34639.firebaseio.com",
+    "project_id": "test-34639",
+    "storage_bucket": "test-34639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524796436433:android:a8f52e0eafc9f103",
+        "android_client_info": {
+          "package_name": "com.android.app.MedicinesOnWay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524796436433-bntghp4jptm8fobsl8oaoi0ekddm70jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.app.MedicinesOnWay",
+            "certificate_hash": "0dd502594cdd44fb423591df57b0f2af1bf67fce"
+          }
+        },
+        {
+          "client_id": "524796436433-at49ogug52iv5kta05c9jthuv8comftj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "524796436433-at49ogug52iv5kta05c9jthuv8comftj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2yCMcltlMZJSVeGw1LJmvCScVz-GPj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524796436433-at49ogug52iv5kta05c9jthuv8comftj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
